@@ -41,7 +41,7 @@
     "prepare": "is-ci || husky install"
   },
   "dependencies": {
-    "@mocks-server/core": "2.3.3",
+    "@mocks-server/core": "git+https://github.com/bubblecrisis/core.git",
     "@mocks-server/plugin-admin-api": "2.1.0",
     "@mocks-server/plugin-inquirer-cli": "2.1.0"
   },
